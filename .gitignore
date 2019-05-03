@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# PlatformIO
+.pio
+.pioenvs
+.piolibdeps
+.vscode
+
+# Private and secret files
+include/secrets/*
